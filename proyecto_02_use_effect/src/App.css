@@ -1,0 +1,21 @@
+.label-green{
+    background-color: rgb(255, 23, 23);
+    color: rgb(8, 5, 5);
+    padding: 10px;
+    border-radius: 5px;
+    margin: 20px;
+    display:block;
+    max-width: 300px;
+}
+.label{
+    background-color: blue;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 20px;
+    display:block;
+    max-width: 300px;
+}
+.p{
+    margin: 20px;
+}
